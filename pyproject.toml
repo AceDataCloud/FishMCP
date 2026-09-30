@@ -75,7 +75,7 @@ Changelog = "https://github.com/AceDataCloud/FishMCP/blob/main/CHANGELOG.md"
 
 Documentation = "https://platform.acedata.cloud/documents/fish"
 [build-system]
-requires = ["hatchling>=1.21.0,<1.30.0"]
+requires = ["hatchling>=1.21.0,<1.33.0"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
